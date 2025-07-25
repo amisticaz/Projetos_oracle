@@ -28,9 +28,9 @@ Exibir o resultado do sorteio na tela.
 
 ## **Tecnologias usadas**
 
-- HTML5
-- JavaScript
-
+- HTML
+- JavaScript (puro)
+- CSS
 ---
 
 ## **Demonstração**
