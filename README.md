@@ -1,52 +1,74 @@
-# Projetos_oracle
+# Projetos Oracle ONE - Iniciante em Programação
 
-# Projeto Amigo Secreto
+Este repositório reúne os projetos desenvolvidos durante minha jornada no programa **Oracle Next Education (ONE)**, promovido em parceria com a **Alura**.
 
-Este é um projeto simples de **Amigo Secreto**, feito em HTML, CSS e JavaScript puro. Ele permite adicionar amigos a uma lista, visualizar quem foi adicionado e realizar um sorteio aleatório de um amigo.
-
----
-
-## **Funcionalidades**
-
-Adicionar amigos a uma lista.  
-Validar o campo de entrada (não deixa adicionar nome vazio).  
-Atualizar a lista de amigos em tempo real.  
-Sortear aleatoriamente um amigo secreto.  
-Exibir o resultado do sorteio na tela.
+A proposta do curso é ensinar lógica de programação, fundamentos de desenvolvimento web e construção de aplicações práticas usando **HTML**, **CSS** e **JavaScript**.
 
 ---
 
-## **Como usar**
+## Objetivo
 
-1. Clone ou baixe este repositório.  
-2. Abra o arquivo `index.html` em seu navegador.  
-3. Digite o nome de um amigo no campo de texto e clique em **Adicionar Amigo**.  
-4. Veja os nomes aparecerem na lista.  
-5. Quando quiser, clique em **Sortear Amigo Secreto** para ver quem foi o sorteado.
+Consolidar o aprendizado através de projetos práticos, estimulando o raciocínio lógico, a organização do código, a separação por responsabilidades (HTML, CSS, JS) e o uso de boas práticas na estrutura dos arquivos.
 
 ---
 
-## **Tecnologias usadas**
+## Projetos Incluídos
 
-- HTML
-- JavaScript (puro)
-- CSS
+### 1. Número Secreto  
+> **Pasta:** `/logica_programacao_JS`  
+Um jogo simples onde o usuário deve adivinhar um número aleatório.  
+Inclui validações de entrada, feedback de tentativas e reinício automático ao acertar.  
+
+🔗 [README do Projeto Número Secreto](./logica_programacao_JS
+/README.md)
+
 ---
 
-## **Demonstração**
+### 2. Número Secreto com Voz (Funções e Listas)  
+> **Pasta:** `/logica_funcoes_e_listas`  
+Evolução do jogo anterior, agora com uso de **funções**, **arrays** e **voz sintetizada** (Web Speech API) que lê as mensagens para o jogador.  
 
-![alt text](image.png)
+🔗 [README do Projeto com Voz](./logica_funcoes_e_listas/README.md)
 
 ---
 
-## **Autor**
+### 3. Amigo Secreto  
+> **Pasta:** `/one_estudos`  
+Aplicação que permite adicionar nomes de amigos e sortear pares automaticamente.  
+Explora o uso de listas, manipulação do DOM e interação via botões.  
 
-Desenvolvido por [Kethelen_de_Azevedo].  
+🔗 [README do Projeto Amigo Secreto](./one_estudos/README.md)
+
+---
+
+## Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (puro)**
+- **Web Speech API** (projeto com voz)
+
+---
+
+## Autora
+
+Desenvolvido com dedicação por **Kethelen de Azevedo**  
 📧 kethelenfernandes13@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kethelendeazevedo)
 
 ---
 
-## **Licença**
+## Sobre o Oracle ONE
 
-Este projeto é de uso livre para estudos! 🎉
+O **Oracle Next Education** é uma iniciativa da Oracle em parceria com a Alura para capacitação de talentos na área de tecnologia, com foco em:
+
+- Formação técnica sólida
+- Desenvolvimento de projetos reais
+- Inclusão no mercado de trabalho
+
+---
+
+## 📄 Licença
+
+Este repositório é livre para estudo, prática e compartilhamento.  
+Seja bem-vindo(a) para explorar, modificar e usar como base nos seus próprios aprendizados! 🚀
