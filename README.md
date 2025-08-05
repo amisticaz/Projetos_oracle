@@ -35,7 +35,7 @@ Exibir o resultado do sorteio na tela.
 
 ## **Demonstração**
 
-*(Adicione aqui uma captura de tela ou gif mostrando o projeto funcionando!)*
+![alt text](image.png)
 
 ---
 
